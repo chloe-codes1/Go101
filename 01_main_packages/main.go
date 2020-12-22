@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/chloe-codes1/go101/something"
+	"github.com/chloe-codes1/go101/01_main_packages/something"
 )
 
 func main() {
